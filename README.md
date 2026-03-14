@@ -101,14 +101,6 @@ A **VS Code extension + FastAPI backend** that turns your research papers into a
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6B21A8&height=2" />
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vmahijith-lgtm&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=ffffff&icon_color=6B21A8)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vmahijith-lgtm&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=ffffff)
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6B21A8&height=2" />
