@@ -6,7 +6,7 @@
 
 *Building intelligent systems that turn complex data into clear decisions.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/v-mahijith-v)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:vmahijith@gmail.com)
 [![GitHub ALGO-DRAFT](https://img.shields.io/badge/Org-ALGO--DRAFT-181717?style=for-the-badge&logo=github)](https://github.com/ALGO-DRAFT)
 
@@ -16,9 +16,8 @@
 
 ## 🧠 About Me
 
-I specialize in transforming raw, complex datasets into actionable insights — with a particular focus on **clinical trial data quality** and **AI-powered tooling**. I bring together strong analytical skills with hands-on development experience to build end-to-end solutions that actually get used.
+I specialize in transforming raw, complex datasets into actionable insights — **AI-powered tooling**. I bring together strong analytical skills with hands-on development experience to build end-to-end solutions that actually get used.
 
-- 🔬 Experienced in **clinical trial data management and quality analytics**
 - 🤖 Proficient at **integrating AI/LLMs effectively** into real-world workflows
 - 📊 Strong foundations in **statistics, data visualization, and reporting**
 - 🛠️ Full-stack mindset — from data pipelines to interactive web dashboards
@@ -68,7 +67,6 @@ A **VS Code extension + FastAPI backend** that turns your research papers into a
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
@@ -107,13 +105,6 @@ A **VS Code extension + FastAPI backend** that turns your research papers into a
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vmahijith-lgtm&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vmahijith-lgtm&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -123,7 +114,7 @@ A **VS Code extension + FastAPI backend** that turns your research papers into a
 
 I'm actively looking for roles in:
 - 📊 **Data Analytics / Data Engineering**
-- 🏥 **Clinical Data Management / Informatics**
+- 🏥 **Informatics**
 - 🤖 **AI/ML Engineering**
 - 🔬 **Research & Development (AI-assisted)**
 
