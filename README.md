@@ -1,12 +1,13 @@
-## 💰 Revenue Radar — Multi-Touch Marketing Attribution + AI Budget Allocation
+# Featured Projects
 
-Revenue Radar is an end-to-end attribution and budget optimization platform powered by dbt, DuckDB, Thompson Sampling RL, FastAPI & Streamlit.
+1. **Revenue Radar**  
+   - A project that helps visualize revenue trends and projections.
 
-### Key Features:
-- **Multi-Touch Attribution**: Understand the entire customer journey and how various channels contribute to conversions.
-- **AI Budget Allocation**: Optimize your marketing budget with advanced algorithms to maximize ROI.
-- **Real-Time Analytics**: Get live insights and analytics on campaign performance.
-- **User-Friendly Interface**: Easy to use with no coding required to visualize data.
+2. **Clinical Trial Analytics Platform**  
+   - Analyzes data from clinical trials.
 
-### Live Demo:
-Check out the live demo [here](https://revenue-radar.onrender.com).
+3. **Project 3**  
+   - Description of project 3.
+
+4. **Project 4**  
+   - Description of project 4.
