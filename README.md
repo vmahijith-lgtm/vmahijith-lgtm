@@ -80,6 +80,18 @@ I specialize in transforming raw, complex datasets into actionable insights with
 
 ## 🚀 Featured Projects
 
+### 💰 [Revenue Radar — Marketing Attribution + AI Budget Allocation](https://github.com/vmahijith-lgtm/revenue-radar)
+> ![dbt](https://img.shields.io/badge/dbt-3B0764?style=flat-square&logo=dbt&logoColor=A855F7) ![DuckDB](https://img.shields.io/badge/DuckDB-0D0D0D?style=flat-square&logoColor=A855F7) ![FastAPI](https://img.shields.io/badge/FastAPI-6B21A8?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-3B0764?style=flat-square&logo=streamlit&logoColor=A855F7) ![Python](https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=A855F7)
+
+An end-to-end **multi-touch attribution and AI-powered budget optimization platform**. Combines dbt data pipelines with DuckDB analytics, Thompson Sampling reinforcement learning for budget allocation, and a real-time Streamlit dashboard.
+
+- ✅ Multi-touch attribution across all marketing channels
+- ✅ Thompson Sampling RL for intelligent budget optimization
+- ✅ Real-time analytics & performance dashboards
+- ✅ **https://revenue-radar.onrender.com** — See it in action
+
+---
+
 ### 🏥 [Clinical Trial Analytics Platform](https://github.com/vmahijith-lgtm/clinical_trial_analytics)
 > ![Streamlit](https://img.shields.io/badge/Streamlit-3B0764?style=flat-square&logo=streamlit&logoColor=A855F7) ![Python](https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=A855F7) ![Claude](https://img.shields.io/badge/Anthropic_Claude-6B21A8?style=flat-square&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3B0764?style=flat-square&logo=plotly&logoColor=A855F7)
 
@@ -157,7 +169,6 @@ A **VS Code extension + FastAPI backend** that turns your research papers into a
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6B21A8&height=2" />
 
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6B21A8&height=2" />
@@ -166,7 +177,7 @@ A **VS Code extension + FastAPI backend** that turns your research papers into a
 
 I'm actively looking for roles in:
 - 📊 **Data Analytics / Data Engineering**
-- 🏥 **Informatics**
+- 🏥 **Marketing Analysis / Informatics**
 - 🤖 **AI/ML Engineering**
 - 🔬 **Research & Development (AI-assisted)**
 
