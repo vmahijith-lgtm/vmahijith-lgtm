@@ -12,6 +12,62 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6B21A8&height=2" />
 
+## ⚙️ Flagship Project — [GigaSouk](https://github.com/vmahijith-lgtm/Gigasouk)
+
+<div align="center">
+
+**Cloud Factory Infrastructure for India**
+
+*AI-powered Manufacturing-as-a-Service — connecting designers, MSME factories, and customers through intelligent routing, escrow payments, and computer-vision quality control.*
+
+[![Next.js](https://img.shields.io/badge/Next.js_15-0D0D0D?style=flat-square&logo=next.js&logoColor=A855F7)](https://nextjs.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-3B0764?style=flat-square&logo=fastapi&logoColor=A855F7)](https://fastapi.tiangolo.com/)
+[![Supabase](https://img.shields.io/badge/Supabase_Postgres_+_Auth-6B21A8?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
+[![OpenCV](https://img.shields.io/badge/OpenCV_QC-0D0D0D?style=flat-square&logo=opencv&logoColor=A855F7)](https://opencv.org/)
+[![Razorpay](https://img.shields.io/badge/Razorpay_Escrow-3B0764?style=flat-square&logoColor=A855F7)](https://razorpay.com/)
+
+</div>
+
+**GigaSouk is the project I'm building to solve one of India's largest infrastructure gaps** — the disconnect between 63 million MSME manufacturers and the global demand for custom, made-to-order products. Just as AWS virtualised physical servers, GigaSouk virtualises physical factories: filling idle machine capacity by orchestrating designers, factories, and customers on a single platform.
+
+| Stakeholder | Role |
+|---|---|
+| 🎨 **Designer** | Uploads a CAD file, sets a royalty %, and earns passively on every unit sold |
+| 🏭 **Manufacturer** | Browses a jobs board, commits to designs that suit their margins, and gets paid on delivery |
+| 🛍️ **Customer** | Buys engineered, made-to-order products at a transparent price — manufactured by the nearest committed factory |
+
+> Every product visible in the shop already has a **committed manufacturer** before the customer ever sees it.
+
+### Why this matters
+
+| Dimension | Detail |
+|---|---|
+| **Market** | $700B+ India MSME manufacturing output · $45B custom/made-to-order segment |
+| **Problem** | Factories sit idle while designers can't reach production; customers pay opaque middleman markups |
+| **Solution** | End-to-end MaaS — from CAD upload → factory routing → escrow payment → QC gate → doorstep delivery |
+
+### What I built
+
+| System | Implementation | Impact |
+|---|---|---|
+| **AI Routing Engine** | FastAPI + PostGIS · Haversine proximity · capability + price-commitment filters | Stable consumer prices; nearest capable factory assigned automatically |
+| **QC Gate** | Hybrid OpenCV (±0.5mm geometry) + Gemini 2.0 Flash (visual defects) | Automated quality enforcement before any shipment leaves the factory |
+| **Escrow Layer** | Razorpay + HMAC-SHA256 webhooks | Funds locked until QC passes and delivery confirmed; auto-split to platform, factory, and designer |
+| **Logistics Bridge** | Shiprocket multi-courier API | AWB auto-generated on QC pass; real-time order tracking via webhooks |
+| **Negotiation Room** | Real-time chat + 24-hr price-lock timer | Designers and manufacturers agree on margins before a product goes live |
+
+```
+  DESIGNER ──► Upload CAD + set price ──► PLATFORM alerts capable factories
+       ◄──── Negotiation Room (24-hr timer) ────► MANUFACTURER commits
+  CUSTOMER ◄──── Product LIVE in shop ──────────── committed factory assigned
+       ──► Order + Razorpay Escrow ──► Manufacture ──► 5 QC photos ──► OpenCV gate
+       ◄── Delivery ◄── Shiprocket AWB ◄── QC pass ──► Royalty + factory payout
+```
+
+This is where my skills converge — **full-stack engineering, AI/ML pipelines, payments infrastructure, and domain-heavy product design** — applied to a platform with real economic impact for India's manufacturing ecosystem.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6B21A8&height=2" />
+
 ## 🧠 About Me
 
 I specialize in transforming raw, complex datasets into actionable insights with **AI-powered tooling**. I bring together strong analytical skills with hands-on development experience to build end-to-end solutions that actually get used.
@@ -101,13 +157,6 @@ A **VS Code extension + FastAPI backend** that turns your research papers into a
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6B21A8&height=2" />
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vmahijith-lgtm&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=ffffff&icon_color=6B21A8)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vmahijith-lgtm&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=ffffff)
 
 </div>
 
